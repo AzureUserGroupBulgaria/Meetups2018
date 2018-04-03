@@ -1,0 +1,17 @@
+{
+	"accountEnabled": true,
+	"signInNames": [
+		{
+			"type": "emailAddress",
+			"value": "my_email"
+		}
+	],
+	"creationType": "LocalAccount",
+	"displayName": "some person",
+	"mailNickname": "",
+	"passwordProfile": {
+		"password": "simple",
+		"forceChangePasswordNextLogin": false
+	},
+	"passwordPolicies": "DisablePasswordExpiration, DisableStrongPassword"
+}

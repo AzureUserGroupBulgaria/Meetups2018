@@ -1,0 +1,1 @@
+https://github.com/Azure-Samples/active-directory-b2c-javascript-msal-singlepageapp

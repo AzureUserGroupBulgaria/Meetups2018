@@ -1,0 +1,17 @@
+{
+	"accountEnabled": true,
+	"signInNames": [
+		{
+			"type": "userName",
+			"value": "my_username"
+		}
+	],
+	"creationType": "LocalAccount",
+	"displayName": "some name",
+	"mailNickname": "hana",
+	"passwordProfile": {
+		"password": "8888",
+		"forceChangePasswordNextLogin": false
+	},
+	"passwordPolicies": "DisablePasswordExpiration, DisableStrongPassword"
+}

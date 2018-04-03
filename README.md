@@ -5,6 +5,7 @@ Resources and slides from sessions in 2018.
 ## Topics / Теми
 
 1.  January - [Build a great conversationalist using Azure Bot Service](01-January/)
+2.  March - [Single Sign-on for Legacy Applications with Azure](02-March/)
 
 ## Azure User Group Bulgaria
 

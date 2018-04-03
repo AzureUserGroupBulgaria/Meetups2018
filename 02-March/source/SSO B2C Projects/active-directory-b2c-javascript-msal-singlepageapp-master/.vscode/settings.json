@@ -1,0 +1,7 @@
+{
+    "editor.fontSize": 24,
+    "workbench.colorCustomizations": {
+        "editor.selectionBackground": "#FFFF00",
+        "editor.selectionHighlightBackground": "#FFFF66"
+      }
+}
